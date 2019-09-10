@@ -1,4 +1,4 @@
-package com.xiaosong.dubboprovidertwo.service.impl;
+package com.xiaosong.dubbo.provider.two.service.impl;
 
 
 

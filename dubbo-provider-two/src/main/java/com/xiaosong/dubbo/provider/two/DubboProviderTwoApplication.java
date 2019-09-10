@@ -1,4 +1,4 @@
-package com.xiaosong.dubboprovidertwo;
+package com.xiaosong.dubbo.provider.two;
 
 import org.apache.dubbo.config.spring.context.annotation.EnableDubbo;
 import org.springframework.boot.SpringApplication;

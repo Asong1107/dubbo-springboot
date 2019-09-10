@@ -1,4 +1,4 @@
-package com.xiaosong.dubboprovidertwo;
+package com.xiaosong.dubbo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
